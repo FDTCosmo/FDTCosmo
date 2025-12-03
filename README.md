@@ -44,7 +44,6 @@ Fundamental Density Theory (FDT) provides a geometric framework for understandin
 
 - Python 3.8 or higher
 - Julia 1.6 or higher (optional, for FDTEffort.jl)
-- LaTeX distribution (optional, for compiling reports)
 
 ### Python Setup
 
@@ -85,13 +84,6 @@ This will:
 ```bash
 cd data/desi
 python analyze_chains_fdt.py
-```
-
-### Compile LaTeX Reports
-
-```bash
-pdflatex FDT_All_Datasets_Summary.tex
-pdflatex FDT_Cosmological_Analysis_Report.tex
 ```
 
 ## FDT Framework
