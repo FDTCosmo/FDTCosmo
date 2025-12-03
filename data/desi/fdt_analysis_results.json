@@ -1,0 +1,443 @@
+[
+  {
+    "chain_dir": "/Users/collective/Downloads/FDTCosmo/FDTCosmo/data/desi/mcmc_chains/cobaya/base/desi-reptvelocileptors-fs-bao-all_planck2018-lowl-TT-clik_planck2018-lowl-EE-clik_planck2018-highl-plik-TTTEEE",
+    "n_samples": 770720,
+    "params": {
+      "H0": {
+        "mean": 68.14094486908404,
+        "std": 0.4027132545490547,
+        "median": 68.136311,
+        "ci_low": 67.732265,
+        "ci_high": 68.542108
+      },
+      "omegam": {
+        "mean": 0.30451434050507165,
+        "std": 0.005285176492133912,
+        "median": 0.30452449,
+        "ci_low": 0.2992495,
+        "ci_high": 0.30987068
+      },
+      "omegamh2": {
+        "mean": 0.14136810708229422,
+        "std": 0.0008561730857292275,
+        "median": 0.14137504,
+        "ci_low": 0.14051588,
+        "ci_high": 0.14223785
+      },
+      "ombh2": {
+        "mean": 0.0224901351679098,
+        "std": 0.00013210732462731671,
+        "median": 0.022489218499999998,
+        "ci_low": 0.02235617836,
+        "ci_high": 0.022621496
+      },
+      "omch2": {
+        "mean": 0.11823310535053332,
+        "std": 0.0008961004246663191,
+        "median": 0.118240975,
+        "ci_low": 0.11734129,
+        "ci_high": 0.11914228
+      },
+      "sigma8": {
+        "mean": 0.8085212426848948,
+        "std": 0.007138886155318866,
+        "median": 0.80836522,
+        "ci_low": 0.80141573,
+        "ci_high": 0.8155914132
+      },
+      "ns": {
+        "mean": 0.9695972692489612,
+        "std": 0.00367535838447936,
+        "median": 0.969605565,
+        "ci_low": 0.96592418,
+        "ci_high": 0.973269926
+      },
+      "logA": {
+        "mean": 3.0493172574743,
+        "std": 0.016344559460288805,
+        "median": 3.0487599,
+        "ci_low": 3.033076204,
+        "ci_high": 3.0653607
+      },
+      "minuslogpost": {
+        "mean": 1632.1705062331312,
+        "std": 5.521837745193717,
+        "median": 1631.9282,
+        "ci_low": 1627.7948,
+        "ci_high": 1636.7012
+      }
+    },
+    "fdt_params": {
+      "R_universe_m": 1.357714553511791e+26,
+      "R_universe_Gly": 14.35064531774433,
+      "alpha_initial": 0.08085212426848948,
+      "n_alpha": 0.9695972692489612,
+      "alpha_baryon": 0.048436835611915835,
+      "alpha_cdm": 0.25463775317462234,
+      "delta_alpha_nu": 0.0,
+      "w0": -1.0,
+      "wa": 0.0
+    },
+    "regime_analysis": {
+      "alpha_total": 0.29074074179543136,
+      "alpha_baryon": 0.048436835611915835,
+      "alpha_cdm": 0.25463775317462234,
+      "regime": "electromagnetic",
+      "shadow_boost": 1.1371990063686952,
+      "in_shadow_regime": true,
+      "dm_baryon_ratio_measured": 5.257109593509026
+    },
+    "consistency": {
+      "central_invariant": {
+        "c_squared": 8.987551787368176e+16,
+        "eps0_mu0_inverse": 8.987551787368566e+16,
+        "fractional_diff": 4.343785818833327e-14,
+        "verified": true
+      },
+      "cmb_temperature": {
+        "T_CMB_observed": 2.7255,
+        "T_universe_predicted": 27.0,
+        "observable_fraction": 0.10094444444444443,
+        "matches_baryon_fraction": true
+      }
+    },
+    "model": "base",
+    "analysis": "desi-reptvelocileptors-fs-bao-all_planck2018-lowl-TT-clik_planck2018-lowl-EE-clik_planck2018-highl-plik-TTTEEE"
+  },
+  {
+    "chain_dir": "/Users/collective/Downloads/FDTCosmo/FDTCosmo/data/desi/mcmc_chains/cobaya/base/desi-reptvelocileptors-fs-bao-all_schoneberg2024-bbn_planck2018-ns10",
+    "n_samples": 857201,
+    "params": {
+      "H0": {
+        "mean": 68.56958050067834,
+        "std": 0.7452057401350308,
+        "median": 68.577068,
+        "ci_low": 67.832481,
+        "ci_high": 69.325943
+      },
+      "omegam": {
+        "mean": 0.2962549362171236,
+        "std": 0.009437568256045551,
+        "median": 0.29637555,
+        "ci_low": 0.28706363,
+        "ci_high": 0.30595412
+      },
+      "omegamh2": {
+        "mean": 0.13930037558315633,
+        "std": 0.005139858117191579,
+        "median": 0.1393695,
+        "ci_low": 0.13431408,
+        "ci_high": 0.14455289
+      },
+      "ombh2": {
+        "mean": 0.02198461978479961,
+        "std": 0.0005298998465866156,
+        "median": 0.021982308,
+        "ci_low": 0.02145252,
+        "ci_high": 0.022513036
+      },
+      "omch2": {
+        "mean": 0.11667088922192811,
+        "std": 0.004960695743738493,
+        "median": 0.1167349,
+        "ci_low": 0.11186197,
+        "ci_high": 0.12175278
+      },
+      "sigma8": {
+        "mean": 0.8417201001938944,
+        "std": 0.03389864308102654,
+        "median": 0.84014922,
+        "ci_low": 0.80719585,
+        "ci_high": 0.87444088
+      },
+      "ns": {
+        "mean": 0.9942770023436471,
+        "std": 0.026381902253100758,
+        "median": 0.9947458,
+        "ci_low": 0.96835638,
+        "ci_high": 1.0210359
+      },
+      "logA": {
+        "mean": 3.11790048735952,
+        "std": 0.09222926181961978,
+        "median": 3.1132411,
+        "ci_low": 3.0225209,
+        "ci_high": 3.2051906
+      },
+      "minuslogpost": {
+        "mean": 219.3858209283341,
+        "std": 7.4159567847332015,
+        "median": 219.08237,
+        "ci_low": 216.32519,
+        "ci_high": 222.48151
+      }
+    },
+    "fdt_params": {
+      "R_universe_m": 1.3492273375930125e+26,
+      "R_universe_Gly": 14.260937930377471,
+      "alpha_initial": 0.08417201001938944,
+      "n_alpha": 0.9942770023436471,
+      "alpha_baryon": 0.04675800510438059,
+      "alpha_cdm": 0.24814156838606716,
+      "delta_alpha_nu": 0.0,
+      "w0": -1.0,
+      "wa": 0.0
+    },
+    "regime_analysis": {
+      "alpha_total": 0.28329696876924304,
+      "alpha_baryon": 0.04675800510438059,
+      "alpha_cdm": 0.24814156838606716,
+      "regime": "electromagnetic",
+      "shadow_boost": 1.1224319603556734,
+      "in_shadow_regime": true,
+      "dm_baryon_ratio_measured": 5.306932317410173
+    },
+    "consistency": {
+      "central_invariant": {
+        "c_squared": 8.987551787368176e+16,
+        "eps0_mu0_inverse": 8.987551787368566e+16,
+        "fractional_diff": 4.343785818833327e-14,
+        "verified": true
+      },
+      "cmb_temperature": {
+        "T_CMB_observed": 2.7255,
+        "T_universe_predicted": 27.0,
+        "observable_fraction": 0.10094444444444443,
+        "matches_baryon_fraction": true
+      }
+    },
+    "model": "base",
+    "analysis": "desi-reptvelocileptors-fs-bao-all_schoneberg2024-bbn_planck2018-ns10"
+  },
+  {
+    "chain_dir": "/Users/collective/Downloads/FDTCosmo/FDTCosmo/data/desi/mcmc_chains/cobaya/base_mnu/desi-reptvelocileptors-fs-bao-all_planck2018-lowl-TT-clik_planck2018-lowl-EE-clik_planck2018-highl-plik-TTTEEE",
+    "n_samples": 480883,
+    "params": {
+      "H0": {
+        "mean": 68.35520114549067,
+        "std": 0.4231528287112185,
+        "median": 68.345402,
+        "ci_low": 67.923116,
+        "ci_high": 68.768445
+      },
+      "omegam": {
+        "mean": 0.3024262776738055,
+        "std": 0.005404948272737505,
+        "median": 0.30250707,
+        "ci_low": 0.29714472,
+        "ci_high": 0.30793837
+      },
+      "omegamh2": {
+        "mean": 0.14128129050315966,
+        "std": 0.0008553842267032759,
+        "median": 0.14129102,
+        "ci_low": 0.1404356312,
+        "ci_high": 0.14215301
+      },
+      "ombh2": {
+        "mean": 0.022479051608450255,
+        "std": 0.00013157729171067357,
+        "median": 0.022477445,
+        "ci_low": 0.022346844,
+        "ci_high": 0.022610217
+      },
+      "omch2": {
+        "mean": 0.11850011336549697,
+        "std": 0.0009030858194874673,
+        "median": 0.11850331,
+        "ci_low": 0.11759697,
+        "ci_high": 0.11940265
+      },
+      "sigma8": {
+        "mean": 0.8169350924431672,
+        "std": 0.008594636748870153,
+        "median": 0.81703397,
+        "ci_low": 0.8082927496,
+        "ci_high": 0.82509479
+      },
+      "ns": {
+        "mean": 0.9689906671015505,
+        "std": 0.003687985911366722,
+        "median": 0.96900635,
+        "ci_low": 0.9653034624,
+        "ci_high": 0.97273
+      },
+      "logA": {
+        "mean": 3.047575993844802,
+        "std": 0.016115943884727316,
+        "median": 3.0471978,
+        "ci_low": 3.0316863,
+        "ci_high": 3.063428676
+      },
+      "mnu": {
+        "mean": 0.02811051716237518,
+        "std": 0.024138992735795204,
+        "median": 0.023008206,
+        "ci_low": 0.0068047906,
+        "ci_high": 0.052657551
+      },
+      "minuslogpost": {
+        "mean": 1632.397172230491,
+        "std": 8.564447945510484,
+        "median": 1632.1573,
+        "ci_low": 1627.9749,
+        "ci_high": 1636.962288
+      }
+    },
+    "fdt_params": {
+      "R_universe_m": 1.3534588588494441e+26,
+      "R_universe_Gly": 14.305663871149394,
+      "alpha_initial": 0.08169350924431672,
+      "n_alpha": 0.9689906671015505,
+      "alpha_baryon": 0.04810994419656481,
+      "alpha_cdm": 0.25361540782964115,
+      "delta_alpha_nu": 0.0,
+      "w0": -1.0,
+      "wa": 0.0
+    },
+    "regime_analysis": {
+      "alpha_total": 0.28952392890813294,
+      "alpha_baryon": 0.04810994419656481,
+      "alpha_cdm": 0.25361540782964115,
+      "regime": "electromagnetic",
+      "shadow_boost": 1.1347276051085091,
+      "in_shadow_regime": true,
+      "dm_baryon_ratio_measured": 5.271579754768247
+    },
+    "consistency": {
+      "central_invariant": {
+        "c_squared": 8.987551787368176e+16,
+        "eps0_mu0_inverse": 8.987551787368566e+16,
+        "fractional_diff": 4.343785818833327e-14,
+        "verified": true
+      },
+      "cmb_temperature": {
+        "T_CMB_observed": 2.7255,
+        "T_universe_predicted": 27.0,
+        "observable_fraction": 0.10094444444444443,
+        "matches_baryon_fraction": true
+      }
+    },
+    "model": "base_mnu",
+    "analysis": "desi-reptvelocileptors-fs-bao-all_planck2018-lowl-TT-clik_planck2018-lowl-EE-clik_planck2018-highl-plik-TTTEEE"
+  },
+  {
+    "chain_dir": "/Users/collective/Downloads/FDTCosmo/FDTCosmo/data/desi/mcmc_chains/cobaya/base_w_wa/desi-reptvelocileptors-fs-bao-all_schoneberg2024-bbn_planck2018-ns10",
+    "n_samples": 1100167,
+    "params": {
+      "H0": {
+        "mean": 76.53025954054274,
+        "std": 3.239835343928725,
+        "median": 76.516519,
+        "ci_low": 73.280458,
+        "ci_high": 79.75823471999999
+      },
+      "omegam": {
+        "mean": 0.24544808324221612,
+        "std": 0.020727133502993166,
+        "median": 0.24388746,
+        "ci_low": 0.22579216,
+        "ci_high": 0.26620362119999996
+      },
+      "omegamh2": {
+        "mean": 0.14312120075288493,
+        "std": 0.005938898049107013,
+        "median": 0.14323773,
+        "ci_low": 0.13744942,
+        "ci_high": 0.1493085632
+      },
+      "ombh2": {
+        "mean": 0.02200355264205498,
+        "std": 0.0005279314205698462,
+        "median": 0.021999898,
+        "ci_low": 0.021476823,
+        "ci_high": 0.022533576
+      },
+      "omch2": {
+        "mean": 0.12047278153947218,
+        "std": 0.0057806755565528445,
+        "median": 0.12058179,
+        "ci_low": 0.11495282,
+        "ci_high": 0.12650239
+      },
+      "sigma8": {
+        "mean": 0.8662705186231489,
+        "std": 0.0393808014151527,
+        "median": 0.86505651,
+        "ci_low": 0.8261643652,
+        "ci_high": 0.9040392
+      },
+      "ns": {
+        "mean": 0.9768514977538347,
+        "std": 0.029020673232989635,
+        "median": 0.97669139,
+        "ci_low": 0.94762368,
+        "ci_high": 1.0055899
+      },
+      "logA": {
+        "mean": 3.0137640503728647,
+        "std": 0.13474128924170772,
+        "median": 3.0012728,
+        "ci_low": 2.8746303,
+        "ci_high": 3.135462
+      },
+      "w": {
+        "mean": -1.5152109389439519,
+        "std": 0.22079889202064298,
+        "median": -1.5352706,
+        "ci_low": -1.7245245,
+        "ci_high": -1.2937100320000006
+      },
+      "wa": {
+        "mean": 0.9878136175664787,
+        "std": 0.6136896413879663,
+        "median": 1.088058,
+        "ci_low": 0.37101982199999994,
+        "ci_high": 1.5547811
+      },
+      "minuslogpost": {
+        "mean": 220.32506453530092,
+        "std": 4.848280133319755,
+        "median": 220.05585,
+        "ci_low": 217.1653856,
+        "ci_high": 223.58431439999998
+      }
+    },
+    "fdt_params": {
+      "R_universe_m": 1.2088806845060895e+26,
+      "R_universe_Gly": 12.77751489806669,
+      "alpha_initial": 0.08662705186231488,
+      "n_alpha": 0.9768514977538347,
+      "alpha_baryon": 0.03756872309612252,
+      "alpha_cdm": 0.20569444597894682,
+      "delta_alpha_nu": 0.0,
+      "w0": -1.5152109389439519,
+      "wa": 0.9878136175664787
+    },
+    "regime_analysis": {
+      "alpha_total": 0.23553549139167596,
+      "alpha_baryon": 0.03756872309612252,
+      "alpha_cdm": 0.20569444597894682,
+      "regime": "electromagnetic",
+      "shadow_boost": 1.047681908775591,
+      "in_shadow_regime": true,
+      "dm_baryon_ratio_measured": 5.475151376656094
+    },
+    "consistency": {
+      "central_invariant": {
+        "c_squared": 8.987551787368176e+16,
+        "eps0_mu0_inverse": 8.987551787368566e+16,
+        "fractional_diff": 4.343785818833327e-14,
+        "verified": true
+      },
+      "cmb_temperature": {
+        "T_CMB_observed": 2.7255,
+        "T_universe_predicted": 27.0,
+        "observable_fraction": 0.10094444444444443,
+        "matches_baryon_fraction": true
+      }
+    },
+    "model": "base_w_wa",
+    "analysis": "desi-reptvelocileptors-fs-bao-all_schoneberg2024-bbn_planck2018-ns10"
+  }
+]
