@@ -49,7 +49,7 @@ Fundamental Density Theory (FDT) provides a geometric framework for understandin
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/FDTCosmo.git
+git clone https://github.com/FDTCosmo/FDTCosmo.git
 cd FDTCosmo
 
 # Install Python dependencies
@@ -324,7 +324,7 @@ If you use FDTCosmo in your research, please cite:
   author = {FDTCosmo Contributors},
   title = {FDTCosmo: Fundamental Density Theory Analysis of Cosmological Datasets},
   year = {2024},
-  url = {https://github.com/yourusername/FDTCosmo}
+  url = {https://github.com/FDTCosmo/FDTCosmo}
 }
 ```
 
