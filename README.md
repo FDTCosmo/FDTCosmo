@@ -139,13 +139,13 @@ where Rₛ = 2GM/c² is the Schwarzschild radius.
 
 ### BOSS DR12
 
-- **Samples**: CMASS NGC/SGC (z~0.57), LOWZ NGC/SGC (z~0.32)
+- **Samples**: CMASS NGC/SGC (z\~0.57), LOWZ NGC/SGC (z\~0.32)
 - **Data**: Power spectrum multipoles (ℓ=0,2)
 - **k range**: 0.01-0.23 h/Mpc
 
 ### eBOSS DR16
 
-- **Samples**: LRG (z~0.7), ELG (z~0.85), QSO (z~1.48)
+- **Samples**: LRG (z\~0.7), ELG (z\~0.85), QSO (z\~1.48)
 - **Data**: Power spectrum multipoles
 - **k range**: 0.01-0.24 h/Mpc
 
